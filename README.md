@@ -6,8 +6,8 @@ Meu nome é Derick Cabral
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 
 
 derick.cabral@yahoo.com
 
-![](https://tenor.com/pt-BR/view/sukuna-jjk-manga-shibuya-fire-arrow-gif-8647304160162549335)
+![](https://media1.tenor.com/m/77Nln2bO6n4AAAAC/banner.gif)
